@@ -1,0 +1,2 @@
+   0 nano myfirstbashscript.sh
+   1 history > history.txt 
